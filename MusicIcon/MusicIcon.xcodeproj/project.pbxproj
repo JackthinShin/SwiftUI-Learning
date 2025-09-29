@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		059502BA2E8A1192006CCC3D /* MusicIcon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicIcon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		057C637A2E8A94BA006BBDF1 /* MusicIcon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicIcon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		059502BC2E8A1192006CCC3D /* MusicIcon */ = {
+		057C637C2E8A94BA006BBDF1 /* MusicIcon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MusicIcon;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		059502B72E8A1192006CCC3D /* Frameworks */ = {
+		057C63772E8A94BA006BBDF1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		059502B12E8A1192006CCC3D = {
+		057C63712E8A94BA006BBDF1 = {
 			isa = PBXGroup;
 			children = (
-				059502BC2E8A1192006CCC3D /* MusicIcon */,
-				059502BB2E8A1192006CCC3D /* Products */,
+				057C637C2E8A94BA006BBDF1 /* MusicIcon */,
+				057C637B2E8A94BA006BBDF1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		059502BB2E8A1192006CCC3D /* Products */ = {
+		057C637B2E8A94BA006BBDF1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				059502BA2E8A1192006CCC3D /* MusicIcon.app */,
+				057C637A2E8A94BA006BBDF1 /* MusicIcon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		059502B92E8A1192006CCC3D /* MusicIcon */ = {
+		057C63792E8A94BA006BBDF1 /* MusicIcon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 059502C52E8A1193006CCC3D /* Build configuration list for PBXNativeTarget "MusicIcon" */;
+			buildConfigurationList = 057C63852E8A94BB006BBDF1 /* Build configuration list for PBXNativeTarget "MusicIcon" */;
 			buildPhases = (
-				059502B62E8A1192006CCC3D /* Sources */,
-				059502B72E8A1192006CCC3D /* Frameworks */,
-				059502B82E8A1192006CCC3D /* Resources */,
+				057C63762E8A94BA006BBDF1 /* Sources */,
+				057C63772E8A94BA006BBDF1 /* Frameworks */,
+				057C63782E8A94BA006BBDF1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				059502BC2E8A1192006CCC3D /* MusicIcon */,
+				057C637C2E8A94BA006BBDF1 /* MusicIcon */,
 			);
 			name = MusicIcon;
 			packageProductDependencies = (
 			);
 			productName = MusicIcon;
-			productReference = 059502BA2E8A1192006CCC3D /* MusicIcon.app */;
+			productReference = 057C637A2E8A94BA006BBDF1 /* MusicIcon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		059502B22E8A1192006CCC3D /* Project object */ = {
+		057C63722E8A94BA006BBDF1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					059502B92E8A1192006CCC3D = {
+					057C63792E8A94BA006BBDF1 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 059502B52E8A1192006CCC3D /* Build configuration list for PBXProject "MusicIcon" */;
+			buildConfigurationList = 057C63752E8A94BA006BBDF1 /* Build configuration list for PBXProject "MusicIcon" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 059502B12E8A1192006CCC3D;
+			mainGroup = 057C63712E8A94BA006BBDF1;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 059502BB2E8A1192006CCC3D /* Products */;
+			productRefGroup = 057C637B2E8A94BA006BBDF1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				059502B92E8A1192006CCC3D /* MusicIcon */,
+				057C63792E8A94BA006BBDF1 /* MusicIcon */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		059502B82E8A1192006CCC3D /* Resources */ = {
+		057C63782E8A94BA006BBDF1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		059502B62E8A1192006CCC3D /* Sources */ = {
+		057C63762E8A94BA006BBDF1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		059502C32E8A1193006CCC3D /* Debug */ = {
+		057C63832E8A94BB006BBDF1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		059502C42E8A1193006CCC3D /* Release */ = {
+		057C63842E8A94BB006BBDF1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		059502C62E8A1193006CCC3D /* Debug */ = {
+		057C63862E8A94BB006BBDF1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -278,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		059502C72E8A1193006CCC3D /* Release */ = {
+		057C63872E8A94BB006BBDF1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		059502B52E8A1192006CCC3D /* Build configuration list for PBXProject "MusicIcon" */ = {
+		057C63752E8A94BA006BBDF1 /* Build configuration list for PBXProject "MusicIcon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				059502C32E8A1193006CCC3D /* Debug */,
-				059502C42E8A1193006CCC3D /* Release */,
+				057C63832E8A94BB006BBDF1 /* Debug */,
+				057C63842E8A94BB006BBDF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		059502C52E8A1193006CCC3D /* Build configuration list for PBXNativeTarget "MusicIcon" */ = {
+		057C63852E8A94BB006BBDF1 /* Build configuration list for PBXNativeTarget "MusicIcon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				059502C62E8A1193006CCC3D /* Debug */,
-				059502C72E8A1193006CCC3D /* Release */,
+				057C63862E8A94BB006BBDF1 /* Debug */,
+				057C63872E8A94BB006BBDF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 059502B22E8A1192006CCC3D /* Project object */;
+	rootObject = 057C63722E8A94BA006BBDF1 /* Project object */;
 }
