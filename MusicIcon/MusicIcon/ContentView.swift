@@ -10,6 +10,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Image(systemName: "music.note")
+                .font(.system(size: 50))
+                .foregroundStyle(.red)
+                .hidden()
             Image(systemName: "music.quarternote.3")
                 .font(.system(size: 50))
                 .foregroundStyle(.red)
