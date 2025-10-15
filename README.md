@@ -1,6 +1,6 @@
 # SwiftUI Learning Projects 👀
 
-<img src="iOSClubIcon.jpg" alt="iOS Club" width="800">
+<img src="iOSClubIcon.jpg" alt="iOS Club" width="100">
 
 This repository contains practice example projects during my SwiftUI learning journey. 
 
